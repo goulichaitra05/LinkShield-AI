@@ -1,0 +1,6 @@
+
+streamlit
+validators
+tldextract
+pandas
+scikit-learn
